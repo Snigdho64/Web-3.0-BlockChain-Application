@@ -2,7 +2,7 @@
 Web 3.0 Blockchain Application With Ethereum And Solidity
 # Web-3.0 Blockchain Application With Ethereum Smart Contracts and Smart Blockchain Transaction
 ### The Features includes - 
- 1. Connect to your `Ethereum Wallet` using Metamask **(You Must have Metamask Intaslled in Your Device)
+ 1. Connect to your `Ethereum Wallet` using Metamask **(You Must have Metamask Intaslled in Your Device)**
  2. Send Ethereum to Any Account via `Ropsten Test Nework`
  3.  Send Message as data that will be stored in th blockchain
  4.  Review All Your Transactions with a Timestamp Attached aand a Gif based on the keyword sent with the data
